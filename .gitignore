@@ -1,0 +1,7 @@
+#pyenv
+.python-version
+*.pyc
+.gitignore~
+*.pytest_cache/
+.idea/
+*-info/
